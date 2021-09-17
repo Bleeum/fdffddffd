@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bootstrap (framework) – Wikipedia, wolna encyklopedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"faa8db80-12ba-42f6-8f87-8e4f6c331f69","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bootstrap_(framework)","wgTitle":"Bootstrap (framework)","wgCurRevisionId":64326594,"wgRevisionId":64326594,"wgArticleId":2872062,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Frameworki","Oprogramowanie na licencji MIT"],"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Bootstrap_(framework)","wgRelevantArticleId":2872062,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":64326594,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"polski","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!0,"wgWikibaseItemId":"Q893195"};RLSTATE={"ext.gadget.small-references":"ready","ext.gadget.citation-access-info":"ready","ext.gadget.main-page-css":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready"
+,"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","ext.pygments":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.ll-script-loader","ext.gadget.maps","ext.gadget.padlock-indicators","ext.gadget.refToolbar","ext.gadget.edit-buttons","ext.gadget.edit-summaries","ext.gadget.edit-first-section","ext.gadget.edit-summary-warning","ext.gadget.wikibugs","ext.gadget.nuxTBKeys","ext.gadget.enhanced-upload",
+"ext.gadget.map-toggler","ext.gadget.ReferenceTooltips","ext.gadget.narrowFootnoteColumns","ext.gadget.WDsearch","ext.gadget.WMPL-share","ext.gadget.main-page-js","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"pl"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=pl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=ext.gadget.citation-access-info%2Cmain-page-css%2Csmall-references&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"/>
+<meta property="og:title" content="Bootstrap (framework) – Wikipedia, wolna encyklopedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//pl.m.wikipedia.org/wiki/Bootstrap_(framework)"/>
+<link rel="alternate" type="application/x-wiki" title="Edytuj" href="/w/index.php?title=Bootstrap_(framework)&amp;action=edit"/>
+<link rel="edit" title="Edytuj" href="/w/index.php?title=Bootstrap_(framework)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (pl)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pl.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pl.wikipedia.org/wiki/Bootstrap_(framework)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bootstrap_framework rootpage-Bootstrap_framework skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
